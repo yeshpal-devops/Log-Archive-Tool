@@ -49,17 +49,9 @@ Advanced Usage
 You can customize the tool to:
 
 Send email notifications.
-
 Upload archives to a remote server or cloud storage.
-
 Automate the process using schedulers like cron.
 
 
 Contributing
-
 Contributions are welcome! Please open an issue or submit a pull request.
-
-
-
-
-
