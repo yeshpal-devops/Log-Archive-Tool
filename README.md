@@ -30,7 +30,6 @@ Run the script with the following command:
 
     ```bash
     python log_archive.py <log-directory>
-
      ```
 Example:
 
