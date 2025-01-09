@@ -45,11 +45,8 @@ Make the Script Executable:
      ```
 Run the Script:
 
-   
     ```bash
     ./log_archive.py <log-directory>
-
-     ```
 
 Output
 
