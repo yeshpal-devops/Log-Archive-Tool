@@ -27,10 +27,8 @@ A simple command-line tool to archive logs by compressing them into a `.tar.gz` 
      ```
 Running the Tool
 Run the script with the following command:
-
     ```bash
    python log_archive.py <log-directory>
-   
      ```
 Example:
 
