@@ -42,11 +42,17 @@ Make the Script Executable:
     ```bash
     chmod +x log_archive.py
      ```
-Run the Script:
+ Make the Script Executable:
+   ```bash
+ chmod +x log_archive.py
+    ```
 
+Run the Script:
     ```bash
     ./log_archive.py <log-directory>
-    ``` 
+    ```
+
+
 Output
 
 Archive files will be saved in the log_archives directory.
