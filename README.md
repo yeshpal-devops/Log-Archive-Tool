@@ -28,13 +28,13 @@ A simple command-line tool to archive logs by compressing them into a `.tar.gz` 
 2. Running the Tool Run the script with the following command:
 
     ```bash
-      python log_archive.py <log-directory>
-    ```
+    python log_archive.py <log-directory>
+     ```
     
 Example:
-    ```bash
-     python log_archive.py <log-directory>
-    ```
+   ```bash
+   python log_archive.py <log-directory>
+    ``
 
 Steps to Use
 Make the Script Executable:
