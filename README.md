@@ -16,7 +16,7 @@ A simple command-line tool to archive logs by compressing them into a `.tar.gz` 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/log-archive.git
+   git clone https://github.com/yeshpal-devops/Log-Archive-Tool.git
    cd log-archive
    
 2. Install dependencies (if required):
