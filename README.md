@@ -41,16 +41,16 @@ Make the Script Executable:
    
     ```bash
     chmod +x log_archive.py
-     ```
+      ```
  Make the Script Executable:
    ```bash
  chmod +x log_archive.py
-    ```
+     ```
 
 Run the Script:
     ```bash
     ./log_archive.py <log-directory>
-    ```
+     ```
 
 
 Output
