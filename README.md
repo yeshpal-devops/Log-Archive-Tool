@@ -38,15 +38,20 @@ Example:
 
 
 Output
+
 Archive files will be saved in the log_archives directory.
+
 Metadata will be logged in log_archives/archive_log.txt.
 
 
 Advanced Usage
+
 You can customize the tool to:
 
 Send email notifications.
+
 Upload archives to a remote server or cloud storage.
+
 Automate the process using schedulers like cron.
 
 
