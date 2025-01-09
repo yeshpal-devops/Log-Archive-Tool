@@ -25,14 +25,20 @@ A simple command-line tool to archive logs by compressing them into a `.tar.gz` 
     pip install -r requirements.txt
 
      ```
-Running the Tool
-Run the script with the following command:
+
+2. Running the Tool Run the script with the following command:
+
     ```bash
-   python log_archive.py <log-directory>
-     ```
+      python log_archive.py <log-directory>
+    
+    ```
+    
 Example:
 
-python log_archive.py /var/log
+    ```bash
+     python log_archive.py <log-directory>
+    ```
+
 
 
 Output
