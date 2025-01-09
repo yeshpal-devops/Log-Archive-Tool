@@ -29,7 +29,8 @@ Running the Tool
 Run the script with the following command:
 
     ```bash
-    python log_archive.py <log-directory>
+   python log_archive.py <log-directory>
+   
      ```
 Example:
 
