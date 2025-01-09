@@ -36,6 +36,20 @@ Example:
      python log_archive.py <log-directory>
     ```
 
+Steps to Use
+Make the Script Executable:
+   
+    ```bash
+    chmod +x log_archive.py
+
+     ```
+Run the Script:
+
+   
+    ```bash
+    ./log_archive.py <log-directory>
+
+     ```
 
 Output
 
